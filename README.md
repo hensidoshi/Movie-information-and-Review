@@ -30,7 +30,7 @@ The Movie Information & Review System is a web-based application that allows use
 <img width="1892" height="860" alt="image" src="https://github.com/user-attachments/assets/a6e30fde-6bb4-444e-b7b0-4b85f0ad1bcb" />
 
 ### 🎬 Movie Details
-<img width="501" height="656" alt="image" src="https://github.com/user-attachments/assets/0519b475-8c92-4a4c-a521-b00c96679127" />
+<img width="528" height="859" alt="image" src="https://github.com/user-attachments/assets/0519b475-8c92-4a4c-a521-b00c96679127" />
 
 ### ⭐ Review Section
 <img width="528" height="859" alt="image" src="https://github.com/user-attachments/assets/b0fc8bad-a430-449b-9426-df8ffe15842c" />
