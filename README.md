@@ -23,6 +23,27 @@ The Movie Information & Review System is a web-based application that allows use
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+<img width="1892" height="860" alt="image" src="https://github.com/user-attachments/assets/96c23f12-5f08-4b2b-ae97-993f2b8acbb4" />
+<img width="749" height="829" alt="image" src="https://github.com/user-attachments/assets/a6e30fde-6bb4-444e-b7b0-4b85f0ad1bcb" />
+
+### 🎬 Movie Details
+<img width="501" height="656" alt="image" src="https://github.com/user-attachments/assets/0519b475-8c92-4a4c-a521-b00c96679127" />
+
+### ⭐ Review Section
+<img width="528" height="859" alt="image" src="https://github.com/user-attachments/assets/b0fc8bad-a430-449b-9426-df8ffe15842c" />
+
+### 🔐 Login Page
+<img width="597" height="777" alt="image" src="https://github.com/user-attachments/assets/16acc1a7-b4df-42fc-90a1-dc23351356e6" />
+<img width="594" height="779" alt="image" src="https://github.com/user-attachments/assets/1f96e12d-0961-4583-add6-fe9143cec78a" />
+
+### 🛠️ Admin Panel
+<img width="1891" height="861" alt="image" src="https://github.com/user-attachments/assets/cd070ed3-8773-4d4e-b915-a8b6c618e3b5" />
+
+---
+
 ## 📂 Project Structure
 movie-information-and-review/
 
@@ -40,7 +61,7 @@ movie-information-and-review/
 ## ⚙️ Installation & Setup
 
 1. Clone the repository  
-git clone https://github.com/your-username/movie-information-and-review.git  
+git clone https://github.com/hensidoshi/movie-information-and-review.git  
 
 2. Go to project folder  
 cd movie-information-and-review  
@@ -64,13 +85,18 @@ php artisan serve
 
 ---
 
-## 🗄️ Database Tables
-- users  
+## 🗄️ Database Tables  
 - movies  
 - actors  
 - directors  
-- reviews  
-- categories  
+- reviews
+- watchlists
+- users  
+- genres
+- languages
+- roles
+- movie_genres
+- movie_actors
 
 ---
 
