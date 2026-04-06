@@ -25,6 +25,7 @@ The Movie Information & Review System is a web-based application that allows use
 
 ## 📂 Project Structure
 movie-information-and-review/
+
 │── app/  
 │── database/  
 │── public/  
