@@ -27,7 +27,7 @@ The Movie Information & Review System is a web-based application that allows use
 
 ### 🏠 Home Page
 <img width="1892" height="860" alt="image" src="https://github.com/user-attachments/assets/96c23f12-5f08-4b2b-ae97-993f2b8acbb4" />
-<img width="749" height="829" alt="image" src="https://github.com/user-attachments/assets/a6e30fde-6bb4-444e-b7b0-4b85f0ad1bcb" />
+<img width="1892" height="860" alt="image" src="https://github.com/user-attachments/assets/a6e30fde-6bb4-444e-b7b0-4b85f0ad1bcb" />
 
 ### 🎬 Movie Details
 <img width="501" height="656" alt="image" src="https://github.com/user-attachments/assets/0519b475-8c92-4a4c-a521-b00c96679127" />
@@ -37,7 +37,7 @@ The Movie Information & Review System is a web-based application that allows use
 
 ### 🔐 Login Page
 <img width="597" height="777" alt="image" src="https://github.com/user-attachments/assets/16acc1a7-b4df-42fc-90a1-dc23351356e6" />
-<img width="594" height="779" alt="image" src="https://github.com/user-attachments/assets/1f96e12d-0961-4583-add6-fe9143cec78a" />
+<img width="597" height="777" alt="image" src="https://github.com/user-attachments/assets/1f96e12d-0961-4583-add6-fe9143cec78a" />
 
 ### 🛠️ Admin Panel
 <img width="1891" height="861" alt="image" src="https://github.com/user-attachments/assets/cd070ed3-8773-4d4e-b915-a8b6c618e3b5" />
